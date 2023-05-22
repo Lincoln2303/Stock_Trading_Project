@@ -91,6 +91,6 @@ elif result < 5:
                 .create(
                     body=f"Stock has decreased with {result}%🔻, reason:{i['article']}🤷🏽‍♂️",
                     from_="+13464897117",
-                    to="+4522220857"
+                    to="+4500000000"
                 )
         print(f"Stock price has increased with {result} percent, and the reason: {i['article']}")
